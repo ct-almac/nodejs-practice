@@ -1,0 +1,4 @@
+/node_modules
+/1.node-farm/node_modules
+/3.asynchronous-js/node_modules
+.prettierrc
